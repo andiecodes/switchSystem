@@ -4,6 +4,7 @@
     // Don't run if jQuery isn't loaded
     if (typeof window.jQuery === 'undefined') {
 		console.log('jquery undefined');
+	    //test
       return;
     }
     
