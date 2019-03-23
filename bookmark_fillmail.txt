@@ -1,0 +1,6 @@
+javascript:void(function(d) {
+  var body = d.getElementsByTagName('body')[0],
+      script = d.createElement('script');
+      script.src = 'https://cdn.jsdelivr.net/gh/andiecodes/fillmail@5c77f4a9882bdd2c749093b752c9437e1144e643/fm.js';
+      body.appendChild(script);
+}(window.document));
